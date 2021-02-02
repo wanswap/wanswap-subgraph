@@ -26,6 +26,8 @@ let WHITELIST: string[] = [
   '0xe3ae74d1518a76715ab4c7bedf1af73893cd435a', //wanETH
   '0x73eaa7431b11b1e7a7d5310de470de09883529df', //wanUNI
   '0x8b9f9f4aa70b1b0d586be8adfb19c1ac38e05e9a', //WASP
+  '0xc6f4465a6a521124c8e3096b62575c157999d361', //FNX
+  '0x81862b7622ced0defb652addd4e0c110205b0040', //wanEOS
   '0xd15e200060fc17ef90546ad93c1c61bfefdc89c7' // wanBTC
 ]
 
